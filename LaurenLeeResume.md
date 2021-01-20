@@ -1,9 +1,9 @@
 # **Lauren Lee**
 (847) 962-3979  
-lauren@lolocoding.com 
-Miami, FL (Remote only)
-[lolocoding.com](lolocoding.com)
-[webelongpodcast.com](webelongpodcast.com)
+lauren@lolocoding.com  
+Miami, FL (Remote only) 
+[lolocoding.com](lolocoding.com) 
+[webelongpodcast.com](webelongpodcast.com) 
 she/her/hers 
 
 ## Seeking
@@ -55,10 +55,10 @@ Several years later, after workings as a dev for companies such as Amazon and Go
 * Built an admin portal in React/Redux and refactored the backend database to optimize and improve the curation process.
 * Improved the efficiency of the weekly curation process by 30%- saving PMs 10 hours per week.
 
-## Related Qualifications
-**Ada Developers Academy** Cohort 8
-**English Teacher and Department Chair** Seattle Academy of Arts and Sciences
-**Masters Degree in Teaching Liberal Studies** Occidental College
+## Related Qualifications 
+**Ada Developers Academy** Cohort 8 
+**English Teacher and Department Chair** Seattle Academy of Arts and Sciences 
+**Masters Degree in Teaching Liberal Studies** Occidental College 
 
 ## Civic Engagement  
 I am passionate about social justice and teaching my students ways to actively contribute and give back to the community we live in. Growing up, I struggled with learning because of Dyslexia. Only because of patient and persistent mentorship was I able to succeed and eventually enjoy the process of learning. As an adult, I care deeply about connecting with and empowering young girls through mentorship and advocacy.
