@@ -1,5 +1,5 @@
 # **Lauren Lee**
-(847) 962-3979  
+          
 lauren@lolocoding.com  
 Miami, FL (Remote only)    
 [lolocoding.com](https://lolocoding.com)   
