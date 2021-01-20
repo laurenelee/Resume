@@ -17,11 +17,11 @@ After 10 years as a high school teacher and department chair, I attended a codin
 Several years later, after workings as a dev for companies such as Amazon and GoDaddy, I rediscovered my passion for community and education and moved into Developer Relations before ultimately becoming a Developer Education Manager. 
 
 ## Expertise
-* Devrel team management
+* DevRel team management
 * Project management
-* Managing production of Video & Written content for a developer audience
+* Managing production of video & written content for a developer audience
 * Team building and recruitment
-* Career Development & coaching 
+* Career Development and coaching 
 
 ## Skills
 * Podcast host - [We Belong Here: Lessons from Unconventional Paths to Tech](webelongpodcast.com)
