@@ -1,108 +1,69 @@
-# **Lauren E. Lee**
+# **Lauren Lee**
 (847) 962-3979  
-Laurenelee88@gmail.com  
+lauren@lolocoding.com 
+Miami, FL (Remote only)
+[lolocoding.com](lolocoding.com)
+[webelongpodcast.com](webelongpodcast.com)
 she/her/hers 
 
-## Statement of Purpose  
-Creative thinker inspired by the power of imagination and innovation who is motivated to discover ways to bridge cultural gaps and contribute to her community and the world we live in. History of teaching and volunteer work internationally around code to empower students to learn technical skills.  
+## Seeking
+An opportunity to be:
+* passionate about leading teams focused on creating thoughtful content/code that improves the experience & lives of the developer
+* innovative, curious, and wildly enthusiastic about the intersection of education, community, and tech 
 
+## My Journey  
+After 10 years as a high school teacher and department chair, I attended a coding bootcamp and became a software engineer. 
 
-## Professional Experience  
-### Seattle Academy 
-September 2011-Current  
+Several years later, after workings as a dev for companies such as Amazon and GoDaddy, I rediscovered my passion for community and education and moved into Developer Relations before ultimately becoming a Developer Education Manager. 
 
-**Associate English Department Chair**  
-- Model and coordinate teams in modifying and differentiating curriculum to meet the needs of the individual learner.   
-- Serve as a mentor and role model to create a learning environment that supports student achievement as well as college and life readiness.   
-- Facilitate teacher training and professional development.  
-- Invented Project-Based Learning curriculum, executed it's school wide implementation, and then facilitated the training and handoff of said curriculum to a team of first-year teachers to ensure continuation of program before moving on to a new project. 
+## Expertise
+* Devrel team management
+* Project management
+* Managing production of Video & Written content for a developer audience
+* Team building and recruitment
+* Career Development & coaching 
 
+## Skills
+* Podcast host - [We Belong Here: Lessons from Unconventional Paths to Tech](webelongpodcast.com)
+* [International speaker](https://www.youtube.com/watch?v=toPbLOEdwYs)
+* Mentor & community organizer
+* Scuba diver & marathon runner
+* Published author
 
-**English Teacher**  
-- Design and implement original curriculum for 5 class sections (100+ students) for a variety of grades at a school that serves middle and high school students.  
-- Select provocative texts and writing prompts that encourage students to consider new truths about themselves and the world they live in.     
-- Foster a safe environment that allows and encourages students to explore personal issues such as identity.   
-- Implement fundamentals of Universal Design for Learning to differentiate instruction in order to reach all learners.   
-- Encourage students to discover passions, improve their metacognition and learning patterns, and contribute to the many communities they exist within.   
-- Analyze student data to guide instruction.  
-- Reflect upon and modify teaching practices based on student outcomes.  
-- Design and develop curriculum centered upon critical thinking and social justice in effort to help students become leaders and change makers in their communities.  
-- Embrace cognitive diversity, provide dynamic learning opportunities, and help students creatively reach objectives in innovative ways.  
-- Facilitate Socratic Seminar style dialogues with focus on identity and diversity.  
+## Experience 
 
-**Community Service Outreach Coordinator**  
-- Organize city-wide three-day community service experience “Urban Plunge” for entire class of 8th grade students.   
-- Emphasis on building empathy around and exploring the challenge of both the urban residential poor and homeless.  
-- Expose students to resources and organizations in Seattle for future community service opportunities.   
-- Broaden students’ perspectives and build their awareness of the complexity of Seattle’s homelessness epidemic.  
-- Lead prior parent meeting, manage team of twelve faculty leaders, create complex volunteer schedules, creatively solve moment-to-moment problems throughout the experience.   
+**Developer Education Manager** Vonage
+* Manage a DevRel team of Advocates focused on written and video content. 
+* Collaborate with Developer Advocates, Product, Engineering, Content Marketing, & other colleagues to grow and improve the Vonage content output in terms of variety and scope.
+* Experiment with new and emerging technologies and ways to help developers learn faster.
+* Reach developers wherever they are online and drive adoption by understanding their issues, goals, and tooling needs based on past experiences as a developer and data analysis.
 
-**Club Leader**  
-- Organize and edit student created Middle School Morning News Show ([EarlyBird206](https://www.youtube.com/watch?v=_vcr0iaeF7A "EarlyBird206")) using iMovie and Filmora software.   
-- Research and implement innovative technology to convey narrative and expository information.    
-- Facilitate discussions and organize guest speakers and trips for Four Corners (QSA club).  
-- Encourage dialogue about bias, privilege, diversity, and inclusivity.  
-- Lead Facilitators group (a select group of student leaders) who are working to strengthen community by promoting cross grade level interactions and to create community enrichment projects.
-- Support students exploring ideas using Problem/Project-Based learning in Tinkering and Makers club.
+**Developer Educator** Nexmo 
+* Wrote tutorials and blog posts that engaged, educated, and inspired developers using the whole suite of Nexmo APIs.
+* Managed an external contribution program, Developer Spotlight, to engage with the developer community and build a large library of tutorials serving developers across multiple languages and platforms.
+* Hosted live coding streams on Twitch as I learned new things, battled bugs, made mistakes, & learned from them! 
 
+**Technical Product Managerr** GoDaddy
+* Internally evangelized a platform that optimized the engineering process for three thousand+ web developers.
+* Drove the adoption of a framework that prioritized personalization and mobile-first development.Was responsible for the analysis, launch, development, and support of the framework’s adoption between teams across the company.
+* Worked in a cross-functional team to lead the planning and delivery right from product initiation through adoption.
+* Collaborated with senior leadership on roadmap and business outcomes.
+* Advocated the platform in all aspects and presented to executives across the company.
 
-**International, Community Service, and Cultural Trip Leader**  
-- Zambia- Summer 2016- Led group of high school students on a cultural and technological exchange with a partnering high school in Lusaka for a month. Brought donated computers to teach basic CSS, HTML, and JavaScript to students who would then go on to teach their peers in hopes of positioning themselves ahead within the global job market.  
-- New Orleans- Summers 2014 and 2015- Organized and led a community-service focused trip for 22 high school students. Partnered with local organizations working to rebuild homes devastated by Katrina for two weeks.   
-- Lake Laberge Canada Spring 2015- Utilized WA state ferry system to transport group of 90+ High School Seniors to White Horse Canada to ice camp for two weeks. Organized activities such as dog sledding, snowshoeing, ice hockey, ice fishing, and igloo-building.  
-- Ashland Oregon Shakespeare Festival Spring 2011-2014- Exposed students to a personal passion on a five day curriculum trip including a variety of theater productions.    
-- Yukon River Alaska Summer 2014 and 2015- Canoe down the river with Middle School students for 10 days. Taught basic outdoor and survival skills to all first-time campers.  
-- Demonstrated the ability to think on my feet, problem-solve, and be flexible throughout all trips.  
-- Wilderness First Aid Certification (2018)  
+**Software Engineer** Amazon 
+* Improved the 'Top 20 Most Sold & Most Read' list curation process by automating a heavy and complex protocol.
+* Built an admin portal in React/Redux and refactored the backend database to optimize and improve the curation process.
+* Improved the efficiency of the weekly curation process by 30%- saving PMs 10 hours per week.
 
-**Coach**  
-- Cross Country  
-- Volleyball  
-- Track 
-
-### The Island Academy, Belize
-February-June 2011  
-**Teacher**   
-- Designed and implemented curriculum for all subjects grade 7 & 8 
-
-
-## Education
-**Masters Degree**, May 2011   
-*Teaching Liberal Studies*  
-Occidental College, Los Angeles, CA  
-Published Video thesis: *"What the Children Play: An Ethnographic Exploration of Gender Identity at the Age of Four"*
-Presented research @ Society of Cross-Cultural Research Conference, 2011
-
-
-**Bachelor of Arts**, June 2010  
-*Sociology and Education*  
-Occidental College, Los Angeles, CA  
-Summa Cum Laude 
+## Related Qualifications
+**Ada Developers Academy** Cohort 8
+**English Teacher and Department Chair** Seattle Academy of Arts and Sciences
+**Masters Degree in Teaching Liberal Studies** Occidental College
 
 ## Civic Engagement  
-I am passionate about social justice and teaching my students ways to actively contribute and give back to the community we live in. Growing up, I struggled with learning because of Dyslexia. Only because of patient and persistent mentorship was I able to succeed and eventually enjoy the process of learning. As an adult, I care deeply about connecting with and empowering young girls through mentorship and advocacy. 
+I am passionate about social justice and teaching my students ways to actively contribute and give back to the community we live in. Growing up, I struggled with learning because of Dyslexia. Only because of patient and persistent mentorship was I able to succeed and eventually enjoy the process of learning. As an adult, I care deeply about connecting with and empowering young girls through mentorship and advocacy.
+- ChickTech
 - ACLU volunteer  
 - Girls on the Run Coach  
 - UPower Mentor  
 - Boys and Girls Club Literacy volunteer 
-
-## Demonstration of Interest in Coding  
-Since deciding that software development is the right and next step for me in my career trajectory, I have taken the initiative to begin learning the basics, exploring my personal learning styles, and immersing myself into Seattle's tech community by meeting other devs and women who code.
-
-- In-Person Intro Classes:
-   - Java 101- She Codes Now
-   - HTML/CSS basics- Galvanize
-- Online tutorials:
-   - Terminal, HTML/CSS, Ruby- Codecademy
-   - Jumpstart- Ada Academy
-   - Python- Coursera
-- Meetups Attended:  
-   - Weekly Girl Develop It study groups
-   - Modev Tech Panel: 2017 Priorities
-   - Women Who Code Networking Event @Zillow 
-   - Software Craftmanship Seminar: "Social Coding for Effective Teams"
-   - Bi-Weekly PyLadies Hacknight! 
-   - She's Coding monthly meeting 
-   - In Their Own Words: Gender & Identity at Work 
-   - Pyladies Learning Circle 
-
