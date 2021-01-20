@@ -43,7 +43,7 @@ Several years later, after workings as a dev for companies such as Amazon and Go
 * Managed an external contribution program, Developer Spotlight, to engage with the developer community and build a large library of tutorials serving developers across multiple languages and platforms.
 * Hosted live coding streams on Twitch as I learned new things, battled bugs, made mistakes, & learned from them! 
 
-**Technical Product Managerr** GoDaddy
+**Technical Product Manager** GoDaddy
 * Internally evangelized a platform that optimized the engineering process for three thousand+ web developers.
 * Drove the adoption of a framework that prioritized personalization and mobile-first development.Was responsible for the analysis, launch, development, and support of the framework’s adoption between teams across the company.
 * Worked in a cross-functional team to lead the planning and delivery right from product initiation through adoption.
