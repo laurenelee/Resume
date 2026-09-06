@@ -6,7 +6,7 @@ Portugal · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https:/
 
 ---
 
-I run multi-function developer organizations: advocacy, developer education, and documentation, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. We measure whether it compiles, not whether they enjoyed it.
+I run multi-function developer organizations: advocacy, developer education, documentation and developer experience, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. We measure whether it compiles, not whether they enjoyed it.
 
 I came to this through teaching. I led an English department before retraining as an engineer at [Ada Developers Academy](https://adadevelopersacademy.org/), and that is why I focus on where builders get stuck rather than how many arrive. I still write the curriculum and teach the sessions myself.
 
@@ -50,7 +50,7 @@ I came to this through teaching. I led an English department before retraining a
 **2024 to present · Remote**
 *Previously Director of Developer Relations, Input Output (IOHK), through the spin-out that established Midnight as an independent foundation*
 
-Player-coach leading three functions through mainnet launch: advocacy, developer education, and documentation. Built and ran the largest team at the Foundation, global, coaching senior engineers and educators. Owned a multimillion-dollar budget, all partner agreements, and the metrics reported to executive leadership.
+Player-coach leading advocacy, developer education, documentation, and developer experience through mainnet launch. Built and ran the largest team at the Foundation, global, coaching senior engineers and educators. Owned a multimillion-dollar budget, all partner agreements, and the metrics reported to executive leadership.
 
 **Program design and delivery**
 
