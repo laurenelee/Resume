@@ -16,8 +16,9 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Talks
 
-- **[Beyond badges: how gamification can supercharge developer engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — DevRelCon New York, 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
-- **[Leveraging on-chain use cases for DevRel in the blockchain space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — DevRelCon London, 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
+- **Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of** — 2026 · recording forthcoming
+- **[Beyond bBadges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
+- **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
 
 ### Writing on developer relations practice
 
@@ -50,7 +51,7 @@ I came to this through teaching. I led an English department before retraining a
 **2024 to present · Remote**
 *Previously Director of Developer Relations, Input Output (IOHK), through the spin-out that established Midnight as an independent foundation*
 
-Player-coach leading advocacy, developer education, documentation, and developer experience through mainnet launch. Built and ran the largest team at the Foundation, global, coaching senior engineers and educators. Owned a multimillion-dollar budget, all partner agreements, and the metrics reported to executive leadership.
+Leading advocacy, developer education, documentation, and developer experience through the mainnet launch. I run a global team at the Foundation and own a multimillion-dollar budget, the technical narrative, and the ecosystem metrics reported to executive leadership.
 
 **Program design and delivery**
 
