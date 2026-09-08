@@ -55,7 +55,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 
 **Program design and delivery**
 
-- Built a hackathon portfolio across five regions with Major League Hacking and platforms in Asia and Latin America. One curriculum, adapted per region. I replaced registrations with a harder measure: did the team finish with software that actually runs. It went from 10% to 96% in under twelve months.
+- Built a hackathon portfolio across five regions with Major League Hacking and platforms in Asia and Latin America. One curriculum, adapted per region. I replaced registrations with a harder measure: did the team finish with software that actually runs. Across the portfolio, it went from 10% to 96% in under twelve months.
 - A hackathon ends with a demo. New Moon to Full ends on mainnet with real users. Built with Rise In and run monthly since July: six levels per cycle, each harder than the last, from a first contract up to an MVP with 50 testnet users. I sourced the partner and the budget. 216 of 247 submissions compiled. 10 teams went live on chain. That gap is the number nobody else in this industry reports.
 - Built a champion-identification pipeline: an invitation-based technical fellowship taking developers from first contact to recognized advocate, with four cohorts from 215 applications. Named by the Foundation's President as the primary route for developers into the ecosystem.
 - Built a developer academy to 2,807 enrolled, 794 through phase one: 28% of enrollments, more than double the published MOOC median. Diagnosed a single-step funnel failure costing 492 learners at environment setup and drove the remediation.
@@ -70,7 +70,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 **Enterprise and partnerships**
 
 - Opened an enterprise proof-of-concept pipeline with regulated institutions including a listed digital identity provider and a UK bank. Scoped the technical engagement with BD and solutions engineering, ran the sessions, and qualified accounts before handing them to the commercial side.
-- Rebuilt the documentation and tied it to output: projects compiling end to end at the same hackathon series rose from roughly 5 to 64, credited in the retrospective to pre-event docs.
+- Rebuilt the documentation and tied it to output: projects ran end to end at the same hackathon series rose from roughly 10 to 96, credited in the retrospective to pre-event docs.
 - Negotiated education, event, and university curriculum partnerships across six countries.
 
 ### Chief Product Officer & Co-Founder · Accelerate Polkadot
