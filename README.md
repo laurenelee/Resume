@@ -55,7 +55,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 
 **Program design and delivery**
 
-- Built a hackathon portfolio across five regions with Major League Hacking and regional hackathon platforms across Asia and Latin America, running one modular curriculum adapted per region. Replaced registrations with **compile rate** as the quality measure; portfolio rate rose from 10% to a 64–96% range in twelve months.
+- Built a hackathon portfolio across five regions with Major League Hacking and platforms in Asia and Latin America. One curriculum, adapted per region. I replaced registrations with a harder measure: did the team finish with software that actually runs. It went from 10% to 96% in under twelve months.
 - Designed *New Moon to Full* with Rise In, a six-phase program addressing retention after the hackathon rather than acquisition at the front door. Sourced the partner and the budget. 87% compile rate across 247 submissions; 56% month-over-month retention from a base of 221, half of them advancing a level.
 - Built a champion-identification pipeline: an invitation-based technical fellowship taking developers from first contact to recognized advocate, with four cohorts from 215 applications. Named by the Foundation's President as the primary route for developers into the ecosystem.
 - Built a developer academy to 2,807 enrolled, 794 through phase one: 28% of enrollments, more than double the published MOOC median. Diagnosed a single-step funnel failure costing 492 learners at environment setup and drove the remediation.
