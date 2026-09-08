@@ -17,7 +17,7 @@ I came to this through teaching. I led an English department before retraining a
 ### Talks
 
 - **Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of** — 2026 · recording forthcoming
-- **[Beyond bBadges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
+- **[Beyond Badges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
 - **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
 
 ### Writing on developer relations practice
