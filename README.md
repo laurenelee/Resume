@@ -62,7 +62,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 
 **Field-to-product loop and tooling**
 
-- Our smart contract language postdated every frontier model's training data, so developers arrived with AI assistants and got confident, wrong code. Documentation had become the training corpus, making docs quality a growth constraint rather than a support function. I sourced, funded, and shipped **[Midnight Expert](https://midnightntwrk.expert/)**, a retrieval and compiler-verification platform that type-checks every generated output before a developer sees it.
+- Our language was too new for any AI model to have learned it. Developers showed up with Copilot open and got code that looked right but didn't run. I sourced, funded, and shipped [Midnight Expert](https://midnightntwrk.expert/): 16 Claude Code plugins, 102 skills, and 17 agents that load our docs and patterns into the agent's context, then verify what it writes five ways, from compile and type-check through to running it end to end on a devnet. Docs stopped being a support function and became what teaches the machines.
 - Set up technical moderation across Discord and the forum, with a queue and a reply deadline. We answer 95% of questions. Median first reply is under an hour.
 - Turned that data into a standing Developer Experience Friction Report, so recurring blockers reached Product and Engineering with evidence instead of anecdote.
 - Built the Developer Activity Dashboard, the one place the organization looks for ecosystem health. Eight instrumented sections. Tracked repositories grew from 91 to 1,940 and smart contract deployments from 532 to 6,918 in six months.
@@ -130,7 +130,7 @@ Led the English department at an independent secondary school: curriculum, hirin
 
 **Measurement** — Developer funnel design · Program instrumentation · Cohort and retention analysis · HubSpot, Common Room, Grafana, Looker Studio
 
-**Technical** — JavaScript and TypeScript · React · Rust · Solidity and ink! · Distributed systems and consensus · Zero-knowledge proofs · AI coding agents and MCP tooling · Retrieval and compiler-verification systems · APIs and SDKs · Documentation architecture (Diátaxis)
+**Technical** — JavaScript and TypeScript · React · Rust · Solidity and ink! · Distributed systems and consensus · Zero-knowledge proofs · AI coding agents and MCP tooling · Agent plugin architecture and automated verification · APIs and SDKs · Documentation architecture (Diátaxis)
 
 ---
 
