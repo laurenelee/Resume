@@ -26,11 +26,13 @@ I came to this through teaching. I led an English department before retraining a
 ### Selected writing
 
 - **[What it takes to build docs worth reading](https://midnight.network/blog/building-great-docs)** — June 2026
-- **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — February 2026
-**[The Midnight Community Board]([https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8](https://dev.to/lolocoding/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo))** — August 2026
-- **[Midnight's first step toward open source](https://docs.midnight.network/blog/open-sourcing-examples)** — July 2025
+- **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — February 2026 
+- **[The Midnight Community Board](https://dev.to/lolocoding/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)** — August 2025
 - **[Why we're shipping curriculum before it's done](https://dev.to/lolocoding/why-were-shipping-curriculum-before-its-done-and-why-you-should-too-3pkf)** — May 2025
 - **[DevRel in Web3: building systems that scale](https://dev.to/lolocoding/devrel-in-web3-building-systems-that-scale-while-the-ecosystem-is-still-taking-shape-35d7)** — April 2025
+
+
+
 
 ### Ecosystem reporting
 
