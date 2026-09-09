@@ -14,25 +14,30 @@ I came to this through teaching. I led an English department before retraining a
 
 ## Selected work
 
-### Talks
+### Talks and technical content
 
-- **Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of** — 2026 · recording forthcoming
-- **[Beyond Badges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
-- **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
+- **Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of** — DevRelCon New York 2026 · recording forthcoming
+- **[Building with Midnight Expert](https://www.youtube.com/watch?v=PEs34jDCSxY&t=34s)** — Fireside Dev Hang 2026 · an hour on the AI agent tooling I shipped, with Aaron Bassett
+- **[An Introduction to Midnight](https://www.youtube.com/watch?v=g9ZAvgCKsuc)** — 2026 · wrote and delivered the technical explainer used to introduce the platform
+- **[Midnight LIVE: the Aliit Program](https://www.youtube.com/watch?v=wQ3Om3N3h0E)** — 2026 · hosted a panel with the technical fellowship's engineers 
+- **[Beyond Badges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — DevRelCon New York 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
+- **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — DevRelCon London 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
 
-### Writing on developer relations practice
+### Selected writing
 
-- **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — 2026
-- **[What it takes to build docs worth reading](https://dev.to/lolocoding/what-it-takes-to-build-docs-worth-reading-2290)** — 2026
-- **[Why we're shipping curriculum before it's done](https://dev.to/lolocoding/why-were-shipping-curriculum-before-its-done-and-why-you-should-too-3pkf)** — 2025
-- **[DevRel in Web3: building systems that scale](https://dev.to/lolocoding/devrel-in-web3-building-systems-that-scale-while-the-ecosystem-is-still-taking-shape-35d7)** — 2025
+- **[What it takes to build docs worth reading](https://midnight.network/blog/building-great-docs)** — June 2026
+- **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — February 2026
+**[The Midnight Community Board]([https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8](https://dev.to/lolocoding/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo))** — August 2026
+- **[Midnight's first step toward open source](https://docs.midnight.network/blog/open-sourcing-examples)** — July 2025
+- **[Why we're shipping curriculum before it's done](https://dev.to/lolocoding/why-were-shipping-curriculum-before-its-done-and-why-you-should-too-3pkf)** — May 2025
+- **[DevRel in Web3: building systems that scale](https://dev.to/lolocoding/devrel-in-web3-building-systems-that-scale-while-the-ecosystem-is-still-taking-shape-35d7)** — April 2025
 
 ### Ecosystem reporting
 
-- **[Put your project on the map as Midnight developer activity surges](https://midnight.network/blog/developer-activity-surges)** — 2026
-- **[Electric Capital report highlights growing momentum across the Midnight ecosystem](https://midnight.network/blog/electric-capital-report)** — 2026
-- **[Introducing Cohort 0 of the Midnight Aliit Fellowship](https://midnight.network/blog/introducing-cohort-0-of-the-midnight-aliit-fellowship)** — 2025
-- **[Midnight's first step toward open source](https://docs.midnight.network/blog/open-sourcing-examples)** — 2025
+- **[Electric Capital report highlights growing momentum across the Midnight ecosystem](https://midnight.network/blog/electric-capital-report)** — June 2026
+- **[Midnight Network is live](https://dev.to/lolocoding/midnight-network-is-live-1apj)** — March 2026
+- **[Put your project on the map as Midnight developer activity surges](https://midnight.network/blog/developer-activity-surges)** — March 2026
+- **[Introducing Cohort 0 of the Midnight Aliit Fellowship](https://midnight.network/blog/introducing-cohort-0-of-the-midnight-aliit-fellowship)** — December 2025
 
 ### Built
 
@@ -41,6 +46,7 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Podcast
 
+- **[Ep 19: Open Source, Open Future: Inside Midnight's Developer Programs](https://www.youtube.com/watch?v=Ou5KqE_IeXU)** 2025 · guest
 - **[We Belong Here: Lessons from Unconventional Paths to Tech](https://webelongpodcast.com/)** — created and hosted, 67 episodes, 2019 to 2023 · [Apple](https://podcasts.apple.com/us/podcast/we-belong-here-lessons-from-unconventional-paths-to-tech/id1455784370) · [Spotify](https://open.spotify.com/show/0YilCmVxb3t9dHAYCQoExC)
 
 ---
@@ -70,7 +76,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 **Enterprise and partnerships**
 
 - Opened an enterprise proof-of-concept pipeline with regulated institutions including a listed digital identity provider and a UK bank. Scoped the technical engagement with BD and solutions engineering, ran the sessions, and qualified accounts before handing them to the commercial side.
-- Rebuilt the documentation and tied it to output: projects ran end to end at the same hackathon series rose from roughly 10 to 96, credited in the retrospective to pre-event docs.
+- Rebuilt the documentation and tied it to output instead of pageviews. When compile rates jumped across the hackathon series, the retrospective credited the pre-event docs directly.
 - Negotiated education, event, and university curriculum partnerships across six countries.
 
 ### Chief Product Officer & Co-Founder · Accelerate Polkadot
