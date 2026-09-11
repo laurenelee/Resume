@@ -16,7 +16,7 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Talks and technical content
 
-- **Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of** — DevRelCon New York 2026 · recording forthcoming
+- **[Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of](https://www.youtube.com/watch?v=wqlS9YI1IwM&list=PLcKOCtTONOAY&index=26)** — DevRelCon New York 2026 
 - **[Building with Midnight Expert](https://www.youtube.com/watch?v=PEs34jDCSxY&t=34s)** — Fireside Dev Hang 2026 · an hour on the AI agent tooling I shipped, with Aaron Bassett
 - **[An Introduction to Midnight](https://www.youtube.com/watch?v=g9ZAvgCKsuc)** — 2026 · wrote and delivered the technical explainer used to introduce the platform
 - **[Midnight LIVE: the Aliit Program](https://www.youtube.com/watch?v=wQ3Om3N3h0E)** — 2026 · hosted a panel with the technical fellowship's engineers 
