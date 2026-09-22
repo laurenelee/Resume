@@ -6,7 +6,7 @@ Portugal · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https:/
 
 ---
 
-I run multi-function developer organizations: advocacy, developer education, documentation and developer experience, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. We measure whether it compiles, not whether they enjoyed it.
+I run multi-function developer organizations: advocacy, developer education, documentation, and developer experience, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. We measure whether it compiles, not whether they enjoyed it.
 
 I came to this through teaching. I led an English department before retraining as an engineer at [Ada Developers Academy](https://adadevelopersacademy.org/), and that is why I focus on where builders get stuck rather than how many arrive. I still write the curriculum and teach the sessions myself.
 
@@ -25,14 +25,12 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Selected writing
 
+- **[164 disposable computers, one judging afternoon, and a question nobody had time to ask](https://dev.to/lolocoding/164-disposable-computers-one-judging-afternoon-and-a-question-nobody-had-time-to-ask-19da)** - September 2026
 - **[What it takes to build docs worth reading](https://midnight.network/blog/building-great-docs)** — June 2026
 - **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — February 2026 
 - **[The Midnight Community Board](https://dev.to/lolocoding/the-midnight-community-board-building-with-the-community-not-just-for-it-5afo)** — August 2025
 - **[Why we're shipping curriculum before it's done](https://dev.to/lolocoding/why-were-shipping-curriculum-before-its-done-and-why-you-should-too-3pkf)** — May 2025
 - **[DevRel in Web3: building systems that scale](https://dev.to/lolocoding/devrel-in-web3-building-systems-that-scale-while-the-ecosystem-is-still-taking-shape-35d7)** — April 2025
-
-
-
 
 ### Ecosystem reporting
 
@@ -43,6 +41,7 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Built
 
+- **[hackjudge](https://github.com/laurenelee/hackjudge)** — runs every hackathon submission in its own disposable sandbox and checkpoints the failures, so a judge can open the exact broken state instead of reading "it didn't work for me". TypeScript, built on [Fly Sprites](https://sprites.dev/) 
 - **[midnight-ecosystem-tracker](https://github.com/laurenelee/midnight-ecosystem-tracker)** — dashboard tracking ecosystem repository activity, feeding the Electric Capital Developer Report submission
 - **[how-i-work](https://github.com/laurenelee/how-i-work)** — how I run a team, written for the people who join mine
 
@@ -63,7 +62,7 @@ Leading advocacy, developer education, documentation, and developer experience t
 
 **Program design and delivery**
 
-- Built a hackathon portfolio across five regions with Major League Hacking and platforms in Asia and Latin America. One curriculum, adapted per region. I replaced registrations with a harder measure: did the team finish with software that actually runs. Across the portfolio, it went from 10% to 96% in under twelve months.
+- I replaced registrations with a harder measure: did the team finish with software that actually runs. The first event came in at 10%. Across the portfolio now, compile rates run from 64% to 96%. That portfolio spans five regions, built with [Major League Hacking](https://www.mlh.com/) and partners in Asia and Latin America, on one curriculum adapted per region.
 - A hackathon ends with a demo. New Moon to Full ends on mainnet with real users. Built with Rise In and run monthly since July: six levels per cycle, each harder than the last, from a first contract up to an MVP with 50 testnet users. I sourced the partner and the budget. 216 of 247 submissions compiled. 10 teams went live on chain. That gap is the number nobody else in this industry reports.
 - Built a champion-identification pipeline: an invitation-based technical fellowship taking developers from first contact to recognized advocate, with four cohorts from 215 applications. Named by the Foundation's President as the primary route for developers into the ecosystem.
 - Built a developer academy to 2,807 enrolled, 794 through phase one: 28% of enrollments, more than double the published MOOC median. Diagnosed a single-step funnel failure costing 492 learners at environment setup and drove the remediation.
@@ -84,13 +83,13 @@ Leading advocacy, developer education, documentation, and developer experience t
 ### Chief Product Officer & Co-Founder · Accelerate Polkadot
 **2024 to 2025 · Remote**
 
-Owned product direction, content strategy, and client delivery. Spun out of Parity Technologies through the Web3 Foundation's Decentralized Futures program, which funded independent teams to take on work previously held inside the core development company. Won contracts to produce technical education for the Polkadot ecosystem.
+Accelerate spun out of Parity Technologies through the Web3 Foundation's Decentralized Futures program, which funded independent teams to take on work previously held inside the core development company. I won contracts with both to produce technical education for the Polkadot ecosystem, and owned product direction, content strategy, and client delivery.
 
 ### Director of Developer Relations · Parity Technologies
 **2022 to 2024 · Remote**
 *Promoted from Staff Developer Relations Engineer*
 
-Led developer relations for the entire Polkadot ecosystem from its core development company, managing eleven people across two verticals: a developer advocacy team and a developer engagement team. Owned the technical engagement strategy, roadmaps for both, budget, and the metrics used to evaluate program effectiveness. The interface between a global developer community and Parity's engineering organization.
+Led developer relations for the entire Polkadot ecosystem from its core development company, managing twelve people across two verticals: a developer advocacy team and a developer engagement team. Owned the technical engagement strategy, roadmaps for both, budget, and the metrics used to evaluate program effectiveness. The interface between a global developer community and Parity's engineering organization.
 
 ### Smart Contracts Instructor · Polkadot Blockchain Academy
 **2023 · Remote**
@@ -100,7 +99,7 @@ Designed and delivered lectures on smart contract development in ink! and Solidi
 ### Staff Developer Relations Engineer · New Relic
 **2021 to 2022 · Remote**
 
-Defined content strategy for acquisition and activation across tutorials, streams, talks, and workshops. Ran data-driven experimentation across channels and built an ambassador program to broaden engagement and recognize open-source contribution.
+Defined content strategy for acquisition and activation across tutorials, streams, talks, and workshops. Ran data-driven experimentation across channels and built an ambassador program to broaden engagement and recognize open-source contributions.
 
 ### Director of Community · Puppet
 **2021 · Remote**
@@ -132,11 +131,11 @@ Led the English department at an independent secondary school: curriculum, hirin
 
 ## Capabilities
 
-**Leadership** — Global distributed team management · Hiring, coaching and team building · Budget ownership in the millions · Executive reporting · Cross-functional partnership across Product, Engineering, Sales, Marketing and Legal
+**Leadership** — Global distributed team management · Hiring, coaching, and team building · Budget ownership in the millions · Executive reporting · Cross-functional partnership across Product, Engineering, Sales, Marketing, and Legal
 
-**Programs** — Hackathons and buildathons · Ambassador and fellowship programs · Curriculum design and developer education · Technical community operations · Partner and university programs · Conference keynotes, live streams and classroom instruction
+**Programs** — Hackathons and buildathons · Ambassador and fellowship programs · Curriculum design and developer education · Technical community operations · Partner and university programs · Conference keynotes, live streams, and classroom instruction
 
-**Measurement** — Developer funnel design · Program instrumentation · Cohort and retention analysis · HubSpot, Common Room, Grafana, Looker Studio
+**Measurement** — Developer funnel design · Program instrumentation · Cohort and retention analysis · HubSpot, Common Room, Notion, Grafana, Looker Studio
 
 **Technical** — JavaScript and TypeScript · React · Rust · Solidity and ink! · Distributed systems and consensus · Zero-knowledge proofs · AI coding agents and MCP tooling · Agent plugin architecture and automated verification · APIs and SDKs · Documentation architecture (Diátaxis)
 
