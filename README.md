@@ -2,13 +2,13 @@
 
 **Director of Developer Relations & Developer Experience**
 
-Portugal · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https://dev.to/lolocoding) · [X](https://x.com/LoLoCoding) · lauren@lolocoding.com
+[lolocoding.com](https://lolocoding.com) · Portugal · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https://dev.to/lolocoding) · [X](https://x.com/LoLoCoding) · lauren@lolocoding.com
 
 ---
 
-I run multi-function developer organizations: advocacy, developer education, documentation, and developer experience, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. We measure whether it compiles, not whether they enjoyed it.
+I run multi-function developer organizations: advocacy, developer education, documentation, and developer experience, with global teams and multimillion-dollar budgets. Every program I build works like a course. Developers enter at a tier matching what they can already do, and they leave having shipped something a stranger can use. That is what I measure.
 
-I came to this through teaching. I led an English department before retraining as an engineer at [Ada Developers Academy](https://adadevelopersacademy.org/), and that is why I focus on where builders get stuck rather than how many arrive. I still write the curriculum and teach the sessions myself.
+I came to this through teaching. I led an English department before retraining as an engineer at [Ada Developers Academy](https://adadevelopersacademy.org/), and that is why I go looking for the exact step where people quit. I still write the curriculum and teach the sessions myself.
 
 ---
 
@@ -16,15 +16,16 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Talks and technical content
 
-- **[Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of](https://www.youtube.com/watch?v=wqlS9YI1IwM&list=PLcKOCtTONOAY&index=26)** — DevRelCon New York 2026 
-- **[Building with Midnight Expert](https://www.youtube.com/watch?v=PEs34jDCSxY&t=34s)** — Fireside Dev Hang 2026 · an hour on the AI agent tooling I shipped, with Aaron Bassett
-- **[An Introduction to Midnight](https://www.youtube.com/watch?v=g9ZAvgCKsuc)** — 2026 · wrote and delivered the technical explainer used to introduce the platform
-- **[Midnight LIVE: the Aliit Program](https://www.youtube.com/watch?v=wQ3Om3N3h0E)** — 2026 · hosted a panel with the technical fellowship's engineers 
-- **[Beyond Badges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk)** — DevRelCon New York 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
-- **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE)** — DevRelCon London 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
+- **[Zero to Ecosystem: What I Learned Building Developer Community for a Technology Nobody Had Heard Of](https://www.youtube.com/watch?v=wqlS9YI1IwM&list=PLegenQQNme4A&index=1&t=1s)** — DevRelCon New York 2026 
+- **[Building with Midnight Expert](https://www.youtube.com/watch?v=PEs34jDCSxY&list=PLegenQQNme4A&index=2=34s)** — Fireside Dev Hang 2026 · an hour on the AI agent tooling I shipped, with Aaron Bassett
+- **[An Introduction to Midnight](https://www.youtube.com/watch?v=g9ZAvgCKsuc&list=PLegenQQNme4A&index=3)** — 2026 · wrote and delivered the technical explainer used to introduce the platform
+- **[Midnight LIVE: the Aliit Program](https://www.youtube.com/watch?v=wQ3Om3N3h0E&list=PLegenQQNme4A&index=4)** — 2026 · hosted a panel with the technical fellowship's engineers 
+- **[Beyond Badges: How Gamification Can Supercharge Developer Engagement](https://www.youtube.com/watch?v=CbRw7UFhsTk&list=PLegenQQNme4A&index=5)** — DevRelCon New York 2025 · [session page](https://developerrelations.com/talks/beyond-badges-how-gamification-can-supercharge-developer-engagement/)
+- **[Leveraging On-Chain Use Cases for DevRel in the Blockchain Space](https://www.youtube.com/watch?v=MKP17FiB8EE&list=PLegenQQNme4A&index=6)** — DevRelCon London 2023 · [session page](https://developerrelations.com/talks/leveraging-on-chain-use-cases-for-devrel-in-the-blockchain-space/)
 
 ### Selected writing
 
+- **[33 broken builds, one agent on each disposable computer](https://dev.to/lolocoding/33-broken-builds-one-agent-on-each-disposable-computer-the-hard-part-was-deciding-what-counts-as-3ipj)** - September 2026
 - **[164 disposable computers, one judging afternoon, and a question nobody had time to ask](https://dev.to/lolocoding/164-disposable-computers-one-judging-afternoon-and-a-question-nobody-had-time-to-ask-19da)** - September 2026
 - **[What it takes to build docs worth reading](https://midnight.network/blog/building-great-docs)** — June 2026
 - **[DevRel when the ecosystem is still taking shape](https://dev.to/lolocoding/devrel-when-the-ecosystem-is-still-taking-shape-dh8)** — February 2026 
@@ -47,8 +48,9 @@ I came to this through teaching. I led an English department before retraining a
 
 ### Podcast
 
-- **[Ep 19: Open Source, Open Future: Inside Midnight's Developer Programs](https://www.youtube.com/watch?v=Ou5KqE_IeXU)** 2025 · guest
-- **[We Belong Here: Lessons from Unconventional Paths to Tech](https://webelongpodcast.com/)** — created and hosted, 67 episodes, 2019 to 2023 · [Apple](https://podcasts.apple.com/us/podcast/we-belong-here-lessons-from-unconventional-paths-to-tech/id1455784370) · [Spotify](https://open.spotify.com/show/0YilCmVxb3t9dHAYCQoExC)
+- **[The Next Era of Smart Contract Security](https://www.youtube.com/watch?v=3TV5rTaXXH8)** — 2026 · host, with Luca Cosivi of OpenZeppelin 
+- **[Ep 19: Open Source, Open Future: Inside Midnight's Developer Programs](https://www.youtube.com/watch?v=Ou5KqE_IeXU)** — 2025 · guest
+- **[We Belong Here: Lessons from Unconventional Paths to Tech](https://webelongpodcast.com/)** — 2019 to 2023 · creator and host, 67 episodes, · [Apple](https://podcasts.apple.com/us/podcast/we-belong-here-lessons-from-unconventional-paths-to-tech/id1455784370) · [Spotify](https://open.spotify.com/show/0YilCmVxb3t9dHAYCQoExC)
 
 ---
 
@@ -63,21 +65,21 @@ Leading advocacy, developer education, documentation, and developer experience t
 **Program design and delivery**
 
 - I replaced registrations with a harder measure: did the team finish with software that actually runs. The first event came in at 10%. Across the portfolio now, compile rates run from 64% to 96%. That portfolio spans five regions, built with [Major League Hacking](https://www.mlh.com/) and partners in Asia and Latin America, on one curriculum adapted per region.
-- A hackathon ends with a demo. New Moon to Full ends on mainnet with real users. Built with Rise In and run monthly since July: six levels per cycle, each harder than the last, from a first contract up to an MVP with 50 testnet users. I sourced the partner and the budget. 216 of 247 submissions compiled. 10 teams went live on chain. That gap is the number nobody else in this industry reports.
-- Built a champion-identification pipeline: an invitation-based technical fellowship taking developers from first contact to recognized advocate, with four cohorts from 215 applications. Named by the Foundation's President as the primary route for developers into the ecosystem.
-- Built a developer academy to 2,807 enrolled, 794 through phase one: 28% of enrollments, more than double the published MOOC median. Diagnosed a single-step funnel failure costing 492 learners at environment setup and drove the remediation.
+- A hackathon ends with a demo. New Moon to Full ends on mainnet with real users. Built with Rise In and run monthly since July: six levels per cycle, each harder than the last, from a first contract up to an MVP with 50 testnet users. I sourced the partner and the budget. 216 of 247 submissions compiled. 10 teams went live on chain.
+- Designed an invitation-based technical fellowship that takes developers from first contact to recognized advocate. Four cohorts from 215 applications. Named by the Foundation's President as the primary route for developers into the ecosystem.
+- Launched a developer academy to 2,807 enrolled, 794 through phase one: 28% of enrollments, more than double the published MOOC median. Then I found where we were losing the rest: 492 quit at environment setup, before writing a line of code. We fixed that step.
 
 **Field-to-product loop and tooling**
 
-- Our language was too new for any AI model to have learned it. Developers showed up with Copilot open and got code that looked right but didn't run. I sourced, funded, and shipped [Midnight Expert](https://midnightntwrk.expert/): 16 Claude Code plugins, 102 skills, and 17 agents that load our docs and patterns into the agent's context, then verify what it writes five ways, from compile and type-check through to running it end to end on a devnet. Docs stopped being a support function and became what teaches the machines.
+- Our language was too new for any AI model to have learned it. Developers showed up with Copilot open and got code that looked right but didn't run. I sourced, funded, and shipped [Midnight Expert](https://midnightntwrk.expert/): 16 Claude Code plugins, 102 skills, and 17 agents that load our docs and patterns into the agent's context, then verify what it writes five ways, from compile and type-check through to running it end to end on a devnet. The docs are now what the models learn from.
 - Set up technical moderation across Discord and the forum, with a queue and a reply deadline. We answer 95% of questions. Median first reply is under an hour.
-- Turned that data into a standing Developer Experience Friction Report, so recurring blockers reached Product and Engineering with evidence instead of anecdote.
-- Built the Developer Activity Dashboard, the one place the organization looks for ecosystem health. Eight instrumented sections. Tracked repositories grew from 91 to 1,940 and smart contract deployments from 532 to 6,918 in six months.
+- Turned that data into a standing Developer Experience Friction Report, so recurring blockers reached Product and Engineering with the data attached.
+- Instrumented the Developer Activity Dashboard, the one place the organization looks for ecosystem health. Eight instrumented sections. Tracked repositories grew from 91 to 1,940 and smart contract deployments from 532 to 6,918 in six months.
 
 **Enterprise and partnerships**
 
 - Opened an enterprise proof-of-concept pipeline with regulated institutions including a listed digital identity provider and a UK bank. Scoped the technical engagement with BD and solutions engineering, ran the sessions, and qualified accounts before handing them to the commercial side.
-- Rebuilt the documentation and tied it to output instead of pageviews. When compile rates jumped across the hackathon series, the retrospective credited the pre-event docs directly.
+- Rebuilt the documentation and measured it by what got built. When compile rates jumped across the hackathon series, the retrospective credited the pre-event docs directly.
 - Negotiated education, event, and university curriculum partnerships across six countries.
 
 ### Chief Product Officer & Co-Founder · Accelerate Polkadot
@@ -89,7 +91,7 @@ Accelerate spun out of Parity Technologies through the Web3 Foundation's Decentr
 **2022 to 2024 · Remote**
 *Promoted from Staff Developer Relations Engineer*
 
-Led developer relations for the entire Polkadot ecosystem from its core development company, managing twelve people across two verticals: a developer advocacy team and a developer engagement team. Owned the technical engagement strategy, roadmaps for both, budget, and the metrics used to evaluate program effectiveness. The interface between a global developer community and Parity's engineering organization.
+Led developer relations for the entire Polkadot ecosystem from its core development company, managing twelve people across two verticals: a developer advocacy team and a developer engagement team. Owned the technical engagement strategy, roadmaps for both, budget, and the metrics used to evaluate program effectiveness. When the global developer community needed something from Parity's engineers, it came through me.
 
 ### Smart Contracts Instructor · Polkadot Blockchain Academy
 **2023 · Remote**
@@ -110,7 +112,7 @@ Built and ran engagement and advocacy programs for Puppet's open-source communit
 **2019 to 2021 · Remote**
 *Promoted from Developer Educator*
 
-Grew the scope and variety of Vonage's developer content across learning modalities with DevRel, Product, Engineering and Marketing. Built and ran *Developer Spotlight*, an external contribution program that produced a large tutorial library spanning multiple languages and platforms.
+Grew the scope and variety of Vonage's developer content across learning modalities with DevRel, Product, Engineering, and Marketing. Built and ran *Developer Spotlight*, an external contribution program that produced a large tutorial library spanning multiple languages and platforms.
 
 ### Technical Product Manager · GoDaddy
 **2018 to 2019 · Kirkland, WA**
