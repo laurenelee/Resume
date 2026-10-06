@@ -2,7 +2,7 @@
 
 **Director of Developer Relations & Developer Experience**
 
-[lolocoding.com](https://lolocoding.com) · Portugal · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https://dev.to/lolocoding) · [X](https://x.com/LoLoCoding) · lauren@lolocoding.com
+[lolocoding.com](https://lolocoding.com) · Portugal, contracting through a US company · [LinkedIn](https://www.linkedin.com/in/lolocoding/) · [DEV](https://dev.to/lolocoding) · [X](https://x.com/LoLoCoding) · lauren@lolocoding.com
 
 ---
 
@@ -58,7 +58,7 @@ I came to this through teaching. I led an English department before retraining a
 ## Experience
 
 ### Director of Developer Relations · Midnight Foundation
-**2024 to present · Remote**
+**2024 to 2026 · Remote**
 *Previously Director of Developer Relations, Input Output (IOHK), through the spin-out that established Midnight as an independent foundation*
 
 Leading advocacy, developer education, documentation, and developer experience through the mainnet launch. I run a global team at the Foundation and own a multimillion-dollar budget, the technical narrative, and the ecosystem metrics reported to executive leadership.
