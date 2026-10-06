@@ -41,6 +41,7 @@ I came to this through teaching. I led an English department before retraining a
 ### Podcast
 
 - **[We Belong Here: Lessons from Unconventional Paths to Tech](https://webelongpodcast.com/)** — created and hosted, 67 episodes, 2019 to 2023 · [Apple](https://podcasts.apple.com/us/podcast/we-belong-here-lessons-from-unconventional-paths-to-tech/id1455784370) · [Spotify](https://open.spotify.com/show/0YilCmVxb3t9dHAYCQoExC)
+- **[Fostering Developer Education](https://www.youtube.com/watch?v=-WmDZM9kdHA&t=68s)** — guest on CodingCatDev, on my path from the classroom into tech
 
 ---
 
